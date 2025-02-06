@@ -1,0 +1,1 @@
+import{_ as e,c as t,o}from"./chunks/framework.CkHWihve.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"electrons/window.md","filePath":"electrons/window.md","lastUpdated":1737511111000}'),a={name:"electrons/window.md"};function n(r,s,c,d,i,p){return o(),t("div")}const m=e(a,[["render",n]]);export{_ as __pageData,m as default};
